@@ -1,0 +1,20 @@
+{
+"ProjectID": "int",
+"ProjectName": "string",
+"ProjectType": "string",
+"Country": "string",
+"CertificationBody": "string",
+"IssuanceStatus": ["Active", "Retired", "Canceled"],
+"SerialNumberBlockStart": "string",
+"SerialNumberBlockEnd": "string",
+"IssuanceDate": "string",
+"TotalVintageQuantity": "int",
+"Vintage": "string",
+"CorrespondingAdjustment": "string",
+"QuantityIssued": "int",
+"SerialNumber": "int",
+"Retirement/CancellationDate": "string",
+"RetirmentReason": "string",
+"RetirementDetail": "int",
+"Retired": "boolean" (or null with an expired 'as of' date)
+}
