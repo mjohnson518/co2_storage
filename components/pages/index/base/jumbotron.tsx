@@ -35,10 +35,18 @@ const Jumbotron: FC = () => {
         >
           {" "}
           <Box as="span" color="gray.300">
-            Free decentralized storage utility
+            Free decentralized storage
           </Box>{" "}
           <Box as="span" color="gray.300">
             for Environmental Assets
+          </Box>{" "}
+          <Box
+            as="span"
+            color="green.600"
+            bgClip="text"
+            bgGradient="linear(to-l, #79c2ff, #4a5888)"
+          >
+            on IPFS and Filecoin
           </Box>
           .{" "}
         </Heading>
