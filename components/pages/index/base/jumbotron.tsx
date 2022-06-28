@@ -42,9 +42,10 @@ const Jumbotron: FC = () => {
           </Box>{" "}
           <Box
             as="span"
-            color="green.600"
+            bgColor="green.600"
             bgClip="text"
             bgGradient="linear(to-l, #79c2ff, #4a5888)"
+            className="jumbotron-name-heading"
           >
             on IPFS and Filecoin
           </Box>
