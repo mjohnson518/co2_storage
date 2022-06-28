@@ -1,6 +1,6 @@
 # CO2__Storage
 
-![CO2.Storage](/co2.png)
+![CO2.Storage](/co2.storage.png)
 
 <p align="center">
   <a href="https://twitter.com/filecoingreen">
@@ -32,7 +32,7 @@ This boilerplate is built using the following technologies:
 ### 1. **Clone the application**
 
 ```sh
-git clone https://github.com/mjohnson518/co2__storage.git
+git clone https://github.com/mjohnson518/co2_storage.git
 ```
 
 ### 2. **Install necessary dependencies for the frontend application**
