@@ -15,5 +15,5 @@
 "ProjectDeveloper": "string",
 "Methodology": "string",
 "CreditingPeriod": "string",
-"ProjectScale": "int",
+"ProjectScale": "int"
 } 
