@@ -1,0 +1,23 @@
+{
+"DateIssued": "string",
+"ProjectID": "int",
+"Coop/Agregate_ID": "int",
+"ProjectName": "string",
+"ProjectDeveloper": "string",
+"ProjectOwner": "string", 
+"ProjectType": "string",
+"ProtocolVersion": "int", 
+"ARB_Elligible": "boolean", //(California Air Resource Board - Cap and Trade) 
+"CORSIA_Qualified": "string",
+"Vintage": "string",
+"TotalCreditsIssued": "int", 
+"Canceled_for_ARB_Compliance": "boolean",
+"Canceled": "boolean", 
+"ProjectSiteLocation": "string",
+"ProjectSiteState": "string",
+"ProjectSiteCountry": "string", 
+"AdditionalCertifiers": ["string", "string",],
+"VerificationBody": "string",
+"ProjectWebsite": "string",
+"Documents": "string", 
+}
