@@ -19,5 +19,5 @@
 "AdditionalCertifiers": ["string", "string",],
 "VerificationBody": "string",
 "ProjectWebsite": "string",
-"Documents": "string", 
+"Documents": "string"
 }
