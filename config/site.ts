@@ -1,7 +1,7 @@
 const siteConfig = {
   details: {
     title: "CO2 Storage",
-    tagLine: "Data Stoage for Environmental Assets",
+    tagLine: "Data Storage for Environmental Assets",
     description: "Free decentralized data storage for environmental assets.",
     url: "https://green.filecoin.io",
   },

@@ -179,6 +179,10 @@ const typographyStyles = css`
   th {
     border: 1px solid ${theme.colors.gray[900]};
   }
+
+  .ion-heart {
+    color: ${theme.colors.red[500]};
+  }
 `;
 
 export default typographyStyles;
