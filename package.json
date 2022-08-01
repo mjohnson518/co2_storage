@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@chakra-ui/react": "^1.8.8",
-    "@emotion/react": "^11.9.0",
+    "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.8.1",
     "contentlayer": "^0.2.2",
     "dayjs": "^1.11.1",
